@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CombatWords
+comment1.params=commandString
+comment1.target=CombatWords(java.lang.String)
+comment1.text=\r\n\ Initialise\ with\ the\ corresponding\ command\ string.\r\n\ @param\ commandString\ The\ command\ string.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ @return\ The\ command\ word\ as\ a\ string.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWord
+comment0.text=\r\n\ Representations\ for\ all\ the\ valid\ command\ words\ for\ the\ game\r\n\ along\ with\ a\ string\ in\ a\ particular\ language.\r\n\ \r\n\ @author\ \ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ 2016.02.29\r\n
+comment1.params=commandString
+comment1.target=CommandWord(java.lang.String)
+comment1.text=\r\n\ Initialise\ with\ the\ corresponding\ command\ string.\r\n\ @param\ commandString\ The\ command\ string.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ @return\ The\ command\ word\ as\ a\ string.\r\n
+numComments=3

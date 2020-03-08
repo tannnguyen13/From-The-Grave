@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=strength\ defense
+comment1.target=Item(int,\ int)
+comment2.params=
+comment2.target=int\ getStrength()
+comment3.params=
+comment3.target=int\ getDefense()
+numComments=4

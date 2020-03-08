@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Combat
+comment1.params=p1\ p2
+comment1.target=Combat(Player,\ Player)
+comment2.params=
+comment2.target=void\ engage()
+comment3.params=command
+comment3.target=boolean\ processCommand(Command)
+comment4.params=
+comment4.target=void\ attack()
+comment5.params=
+comment5.target=void\ defend()
+comment6.params=
+comment6.target=void\ enemyatk()
+comment7.params=
+comment7.target=void\ magic()
+comment8.params=command
+comment8.target=boolean\ doMagic(Command)
+numComments=9
